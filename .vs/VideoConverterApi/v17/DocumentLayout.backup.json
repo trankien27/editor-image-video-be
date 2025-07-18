@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PersonalProject\\resize-image-be\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A623ABE4-22AD-4173-B573-4D998B58EFE7}|VideoConverterApi\\VideoConverterApi.csproj|d:\\personalproject\\resize-image-be\\videoconverterapi\\controllers\\convertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A623ABE4-22AD-4173-B573-4D998B58EFE7}|VideoConverterApi\\VideoConverterApi.csproj|solutionrelative:videoconverterapi\\controllers\\convertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A623ABE4-22AD-4173-B573-4D998B58EFE7}|VideoConverterApi\\VideoConverterApi.csproj|d:\\personalproject\\resize-image-be\\videoconverterapi\\services\\ffmpegservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A623ABE4-22AD-4173-B573-4D998B58EFE7}|VideoConverterApi\\VideoConverterApi.csproj|solutionrelative:videoconverterapi\\services\\ffmpegservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A623ABE4-22AD-4173-B573-4D998B58EFE7}|VideoConverterApi\\VideoConverterApi.csproj|d:\\personalproject\\resize-image-be\\videoconverterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A623ABE4-22AD-4173-B573-4D998B58EFE7}|VideoConverterApi\\VideoConverterApi.csproj|solutionrelative:videoconverterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A623ABE4-22AD-4173-B573-4D998B58EFE7}|VideoConverterApi\\VideoConverterApi.csproj|d:\\personalproject\\resize-image-be\\videoconverterapi\\models\\convertvideorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A623ABE4-22AD-4173-B573-4D998B58EFE7}|VideoConverterApi\\VideoConverterApi.csproj|solutionrelative:videoconverterapi\\models\\convertvideorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PersonalProject\\resize-image-be\\VideoConverterApi\\Program.cs",
+              "RelativeDocumentMoniker": "VideoConverterApi\\Program.cs",
+              "ToolTip": "D:\\PersonalProject\\resize-image-be\\VideoConverterApi\\Program.cs",
+              "RelativeToolTip": "VideoConverterApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:19:35.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvertController.cs",
+              "DocumentMoniker": "D:\\PersonalProject\\resize-image-be\\VideoConverterApi\\Controllers\\ConvertController.cs",
+              "RelativeDocumentMoniker": "VideoConverterApi\\Controllers\\ConvertController.cs",
+              "ToolTip": "D:\\PersonalProject\\resize-image-be\\VideoConverterApi\\Controllers\\ConvertController.cs",
+              "RelativeToolTip": "VideoConverterApi\\Controllers\\ConvertController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:19:26.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FFmpegService.cs",
+              "DocumentMoniker": "D:\\PersonalProject\\resize-image-be\\VideoConverterApi\\Services\\FFmpegService.cs",
+              "RelativeDocumentMoniker": "VideoConverterApi\\Services\\FFmpegService.cs",
+              "ToolTip": "D:\\PersonalProject\\resize-image-be\\VideoConverterApi\\Services\\FFmpegService.cs",
+              "RelativeToolTip": "VideoConverterApi\\Services\\FFmpegService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:19:12.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConvertVideoRequest.cs",
+              "DocumentMoniker": "D:\\PersonalProject\\resize-image-be\\VideoConverterApi\\Models\\ConvertVideoRequest.cs",
+              "RelativeDocumentMoniker": "VideoConverterApi\\Models\\ConvertVideoRequest.cs",
+              "ToolTip": "D:\\PersonalProject\\resize-image-be\\VideoConverterApi\\Models\\ConvertVideoRequest.cs",
+              "RelativeToolTip": "VideoConverterApi\\Models\\ConvertVideoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:17:31.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
